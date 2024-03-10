@@ -1,0 +1,19 @@
+{
+    "name": "kapitancho/walnut-lang-swoole-http-adapter",
+    "autoload": {
+        "psr-4": {
+            "Walnut\\Lang\\NativeConnector\\SwooleHttp\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marian Kostadinov",
+            "email": "manchokapitancho@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "ext-swoole": ">=5.0",
+        "kapitancho/walnut-lang": "^0.0.5"
+	}
+}
