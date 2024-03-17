@@ -14,6 +14,6 @@
     "require": {
         "php": ">=8.2",
         "ext-swoole": ">=5.0",
-        "kapitancho/walnut-lang": "^0.0.5"
+        "kapitancho/walnut-lang": "^0.0.6"
 	}
 }
